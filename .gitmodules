@@ -3,8 +3,8 @@
 	url = https://github.com/libxsmm/libxsmm.git
 [submodule "external/iree"]
 	path = external/iree
-	url = https://github.com/harsh-nod/iree.git
-	branch = convperf
+	url = https://github.com/iree-org/iree.git
+	branch = main
 [submodule "external/json"]
 	path = external/json
 	url = https://github.com/nlohmann/json.git
